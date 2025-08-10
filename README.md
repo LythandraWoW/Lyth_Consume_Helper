@@ -1,4 +1,4 @@
-# Akkio's Consume Helper
+# Modified version of Akkio's Consume Helper for personal use.
 
 **Version 1.1.3** - Advanced buff and consumable tracking addon for World of Warcraft turtle (1.12)
 

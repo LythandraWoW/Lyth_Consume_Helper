@@ -47,6 +47,7 @@ Akkio_Consume_Helper_Data.allBuffs = {
   { name = "R.O.I.D.S.",                 icon = "Interface\\Icons\\INV_Stone_15",               buffIcon = "Interface\\Icons\\Spell_Nature_Strength",                                                                                    canBeAnounced = false, duration = 3600, itemID = 8410 },
   { name = "Cerebral Cortex Compound",   icon = "Interface\\Icons\\INV_Potion_119",             buffIcon = "Interface\\Icons\\Spell_Nature_Purge",                                                                                       canBeAnounced = false, duration = 3600, itemID = 8423 },
   { name = "Dreamtonic",                 icon = "Interface\\Icons\\INV_Potion_114",             buffIcon = "Interface\\Icons\\INV_Potion_30",                                                                                            canBeAnounced = false, duration = 1200, itemID = 61423 },
+  { name = "Hourglass Sand",             icon = "Interface\\Icons\\INV_Misc_Dust_14",           buffIcon = "Interface\\Icons\\INV_Misc_Dust_14",                                                                                         canBeAnounced = false, duration = 0, itemID = 19183 },
 
   { header = true,                       name = "Food & Drinks" },
   { name = "Smoked Desert Dumplings",    icon = "Interface\\Icons\\Inv_Misc_Food_64",           buffIcon = "Interface\\Icons\\Spell_Misc_Food",                                                                                          canBeAnounced = false, duration = 900, itemID = 20452 },
